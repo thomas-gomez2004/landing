@@ -1,0 +1,19 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body,head {
+	font-family:'Roboto', sans-serif;
+	margin: 0px;
+}
+
+a{
+	text-decoration: none;
+	transition: color 0.3s ease;
+}
